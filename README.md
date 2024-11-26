@@ -9,7 +9,7 @@ Desenvolvedor apaixonado por tecnologia e games, atualmente trabalhando com C#/.
       <ul>
         <li>💻 <strong>Back-end:</strong> C#, .NET, Python, Delphi 2007</li>
         <li>🌐 <strong>Front-end:</strong> HTML 5, CSS 3</li>
-        <li>📊 <strong>Banco de Dados:</strong> SQL Server, PostgreSQL</li>
+        <li>📊 <strong>Banco de Dados:</strong> MySQL, PostgreSQL</li>
         <li>🧪 Testes: xUnit, Moq, Test-Driven Development (TDD)</li>
         <li>⚙️ <strong>Outros:</strong> Microservices, Mediator, API RESTful, Domain-Driven Design (DDD), CQRS, Model-view-controller(MVC)</li>
     </ul>
