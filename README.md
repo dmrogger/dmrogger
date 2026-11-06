@@ -27,3 +27,9 @@ Desenvolvedor apaixonado por tecnologia e games, atualmente trabalhando com C#/.
 
 ## 📫 Contato
 - 💼 LinkedIn: [https://www.linkedin.com/in/dmrogger/](https://www.linkedin.com/in/dmrogger/)
+
+## 📊 Linguagens mais usadas
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dmrogger&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=00000000" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmrogger&layout=compact&langs_count=8&hide_border=true&bg_color=00000000" alt="Linguagens mais usadas" />
+</picture>
