@@ -35,7 +35,7 @@ Desenvolvedor apaixonado por tecnologia e games, atualmente trabalhando com C#/.
     <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=dmrogger&layout=compact&langs_count=8&locale=pt-br&hide_border=true&bg_color=00000000" alt="Linguagens mais usadas" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cs,dotnet,py,postgres,mysql,docker,rabbitmq,git&perline=4&theme=dark" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cs%2Cdotnet%2Cpy%2Cpostgres%2Cmysql%2Cdocker%2Crabbitmq%2Cgit&perline=4&theme=dark" />
     <img height="170" src="https://skillicons.dev/icons?i=cs,dotnet,py,postgres,mysql,docker,rabbitmq,git&perline=4&theme=light" alt="Tecnologias" />
   </picture>
 </p>
